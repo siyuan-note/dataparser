@@ -8,4 +8,4 @@ require (
 	github.com/goccy/go-json v0.10.5
 )
 
-require golang.org/x/text v0.27.0 // indirect
+require golang.org/x/text v0.31.0 // indirect
