@@ -1,8 +1,8 @@
-github.com/88250/gulu v1.2.3-0.20250227144607-7f4570b0d689 h1:39y5g7vnFAIcXhTN3IXPk7h2xBhC4a9hBTykDhHJqRY=
-github.com/88250/gulu v1.2.3-0.20250227144607-7f4570b0d689/go.mod h1:c8uVw25vW2W4dhJ/j4iYsX5H1hc19spim266jO5x2hU=
-github.com/88250/lute v1.7.7-0.20250801084148-32f2ef961381 h1:On7e0kQ5WCCbY+B+ItjkUyqwzChPXiMpI9hlpbTYwfc=
-github.com/88250/lute v1.7.7-0.20250801084148-32f2ef961381/go.mod h1:WYyUw//5yVw9BJnoVjx7rI/3szsISxNZCYGOqTIrV0o=
+github.com/88250/gulu v1.2.3-0.20251208021445-f93f2666eaac h1:EC80pY8zyR0gbL8ZLIBB4IPG/ia3ZHScrR/xt8zU8qU=
+github.com/88250/gulu v1.2.3-0.20251208021445-f93f2666eaac/go.mod h1:IQ5dXW9CjVmx6B7OfK1Y4ZBKTPMe9q1AkVoLGGzRbS8=
+github.com/88250/lute v1.7.7-0.20260114095037-49a2cce7593f h1:KDG/ZiZJ/NMAPH/at561BSJ2ET7MlQfBPhd9uoUXXYg=
+github.com/88250/lute v1.7.7-0.20260114095037-49a2cce7593f/go.mod h1:WYyUw//5yVw9BJnoVjx7rI/3szsISxNZCYGOqTIrV0o=
 github.com/goccy/go-json v0.10.5 h1:Fq85nIqj+gXn/S5ahsiTlK3TmC85qgirsdTP/+DeaC4=
 github.com/goccy/go-json v0.10.5/go.mod h1:oq7eo15ShAhp70Anwd5lgX2pLfOS3QCiwU/PULtXL6M=
-golang.org/x/text v0.31.0 h1:aC8ghyu4JhP8VojJ2lEHBnochRno1sgL6nEi9WGFGMM=
-golang.org/x/text v0.31.0/go.mod h1:tKRAlv61yKIjGGHX/4tP1LTbc13YSec1pxVEWXzfoeM=
+golang.org/x/text v0.33.0 h1:B3njUFyqtHDUI5jMn1YIr5B0IE2U0qck04r6d4KPAxE=
+golang.org/x/text v0.33.0/go.mod h1:LuMebE6+rBincTi9+xWTY8TztLzKHc/9C1uBCG27+q8=
